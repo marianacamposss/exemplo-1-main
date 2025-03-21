@@ -1,16 +1,16 @@
-Claro! Aqui está o README com emojis diferentes:
 
----
+# 📝 Exercícios de fixação
 
-# 📝 Nome do Projeto
-
-**Aplicativo de Receitas**: Este projeto é uma plataforma que permite aos usuários descobrir, compartilhar e salvar receitas culinárias. O aplicativo resolve o problema de encontrar novas ideias para refeições e facilita o planejamento de cardápios, promovendo uma alimentação mais variada e saudável.
+*Calculadora
+*Cálculo de horas extras
+*Aumento de Salário
+*Calculadora de Transporte Fretado
 
 ## 🛠️ Tecnologias Utilizadas
 
-- 🔹 **React**: Para a construção da interface do usuário.
-- 🔹 **Express**: Para criar a API do backend.
-- 🔹 **MongoDB**: Para o armazenamento de dados das receitas.
+HTML
+CSS
+JAVA SCRIPT
 
 ## 📂 Estrutura do Projeto
 
