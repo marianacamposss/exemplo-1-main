@@ -19,5 +19,5 @@ JAVA SCRIPT
 
 ## 🌍 Link do Projeto
 
-Acesse o projeto em: [[Meu Site] (https://marianacamposss.github.io/exemplo-1-main/)
+Acesse o projeto em: https://marianacamposss.github.io/exemplo-1-main/
 📌 _Desenvolvido por Mariana Meirelles de Campos
